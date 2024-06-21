@@ -1,0 +1,14 @@
+C:\Users\SHREE\Desktop\c#\listsort\bin\Debug\net8.0\listsort.exe
+C:\Users\SHREE\Desktop\c#\listsort\bin\Debug\net8.0\listsort.deps.json
+C:\Users\SHREE\Desktop\c#\listsort\bin\Debug\net8.0\listsort.runtimeconfig.json
+C:\Users\SHREE\Desktop\c#\listsort\bin\Debug\net8.0\listsort.dll
+C:\Users\SHREE\Desktop\c#\listsort\bin\Debug\net8.0\listsort.pdb
+C:\Users\SHREE\Desktop\c#\listsort\obj\Debug\net8.0\listsort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHREE\Desktop\c#\listsort\obj\Debug\net8.0\listsort.AssemblyInfoInputs.cache
+C:\Users\SHREE\Desktop\c#\listsort\obj\Debug\net8.0\listsort.AssemblyInfo.cs
+C:\Users\SHREE\Desktop\c#\listsort\obj\Debug\net8.0\listsort.csproj.CoreCompileInputs.cache
+C:\Users\SHREE\Desktop\c#\listsort\obj\Debug\net8.0\listsort.dll
+C:\Users\SHREE\Desktop\c#\listsort\obj\Debug\net8.0\refint\listsort.dll
+C:\Users\SHREE\Desktop\c#\listsort\obj\Debug\net8.0\listsort.pdb
+C:\Users\SHREE\Desktop\c#\listsort\obj\Debug\net8.0\listsort.genruntimeconfig.cache
+C:\Users\SHREE\Desktop\c#\listsort\obj\Debug\net8.0\ref\listsort.dll
